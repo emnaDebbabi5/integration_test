@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
 
   // Make a request to the login endpoint using Axios
-  axios.get('http://195.154.196.255/capgrid', {
+  axios.get('http://51.158.57.186/capgrid', {
     headers: {
       Authorization: 'Bearer 123',
       'Content-Type': 'application/json'
